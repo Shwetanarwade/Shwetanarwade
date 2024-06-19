@@ -1,3 +1,4 @@
+![logo](https://github.com/Shwetanarwade/Shwetanarwade/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta Narwade</h1>
 <h3 align="center">A Passionate AWS-DevOps Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
