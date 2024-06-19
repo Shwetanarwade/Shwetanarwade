@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Narwade</h1>
 <h3 align="center">A Passionate AWS-DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src= "https://www.google.com/imgres?q=animated%20coding%20gif%20girl&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fyoung-woman-writes-code-on-260nw-1731157933.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fyoung-woman-writes-code-on-computer-1731157933&docid=Y1WSm6IRgTbT6M&tbnid=zcHXrsAhm3lANM&vet=12ahUKEwiluKu07
-  -eGAxXiqFYBHWd2AGgQM3oECEwQAA..i&w=369&h=280&hcb=2&ved=2ahUKEwiluKu07-eGAxXiqFYBHWd2AGgQM3oECEwQAA">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shwetanarwade25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shwetanarwade25" height="30" width="40" /></a>
